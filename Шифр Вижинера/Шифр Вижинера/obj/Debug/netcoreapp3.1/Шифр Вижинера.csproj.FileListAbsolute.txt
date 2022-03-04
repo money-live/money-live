@@ -1,0 +1,16 @@
+C:\Users\Iwan\source\repos\Шифр Вижинера\Шифр Вижинера\bin\Debug\netcoreapp3.1\Шифр Вижинера.exe
+C:\Users\Iwan\source\repos\Шифр Вижинера\Шифр Вижинера\bin\Debug\netcoreapp3.1\Шифр Вижинера.deps.json
+C:\Users\Iwan\source\repos\Шифр Вижинера\Шифр Вижинера\bin\Debug\netcoreapp3.1\Шифр Вижинера.runtimeconfig.json
+C:\Users\Iwan\source\repos\Шифр Вижинера\Шифр Вижинера\bin\Debug\netcoreapp3.1\Шифр Вижинера.runtimeconfig.dev.json
+C:\Users\Iwan\source\repos\Шифр Вижинера\Шифр Вижинера\bin\Debug\netcoreapp3.1\Шифр Вижинера.dll
+C:\Users\Iwan\source\repos\Шифр Вижинера\Шифр Вижинера\bin\Debug\netcoreapp3.1\Шифр Вижинера.pdb
+C:\Users\Iwan\source\repos\Шифр Вижинера\Шифр Вижинера\obj\Debug\netcoreapp3.1\Шифр Вижинера.csproj.AssemblyReference.cache
+C:\Users\Iwan\source\repos\Шифр Вижинера\Шифр Вижинера\obj\Debug\netcoreapp3.1\Шифр_Вижинера.Form1.resources
+C:\Users\Iwan\source\repos\Шифр Вижинера\Шифр Вижинера\obj\Debug\netcoreapp3.1\Шифр Вижинера.csproj.GenerateResource.cache
+C:\Users\Iwan\source\repos\Шифр Вижинера\Шифр Вижинера\obj\Debug\netcoreapp3.1\Шифр Вижинера.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iwan\source\repos\Шифр Вижинера\Шифр Вижинера\obj\Debug\netcoreapp3.1\Шифр Вижинера.AssemblyInfoInputs.cache
+C:\Users\Iwan\source\repos\Шифр Вижинера\Шифр Вижинера\obj\Debug\netcoreapp3.1\Шифр Вижинера.AssemblyInfo.cs
+C:\Users\Iwan\source\repos\Шифр Вижинера\Шифр Вижинера\obj\Debug\netcoreapp3.1\Шифр Вижинера.csproj.CoreCompileInputs.cache
+C:\Users\Iwan\source\repos\Шифр Вижинера\Шифр Вижинера\obj\Debug\netcoreapp3.1\Шифр Вижинера.dll
+C:\Users\Iwan\source\repos\Шифр Вижинера\Шифр Вижинера\obj\Debug\netcoreapp3.1\Шифр Вижинера.pdb
+C:\Users\Iwan\source\repos\Шифр Вижинера\Шифр Вижинера\obj\Debug\netcoreapp3.1\Шифр Вижинера.genruntimeconfig.cache
